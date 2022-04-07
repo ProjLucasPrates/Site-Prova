@@ -1,0 +1,33 @@
+body{
+
+   background-color:#A0522D ;
+}
+ 
+
+   .img_topo{
+     width: 50%;
+    
+
+  }
+
+  .img_meio{
+    width: 60%;
+    height: 40%;
+
+  }
+  .img_fim{
+     width: 60%;
+     height: 40%;
+  }
+
+  figure{
+     text-align: center;
+  }
+
+  h1{
+     text-align: center;
+     font-size: 7em;
+  }
+  p{
+     font-size: 2em;
+  }
